@@ -1,0 +1,44 @@
+# Core LangChain and LangGraph
+langchain==0.1.0
+langgraph==0.0.26
+langchain-openai==0.0.5
+langchain-community==0.0.13
+langchain-core==0.1.10
+
+# Vector Store and Embeddings
+chromadb==0.4.22
+sentence-transformers==2.3.1
+
+# Graph Database
+neo4j==5.16.0
+
+# PDF Processing
+PyMuPDF==1.23.8
+pypdf==3.17.4
+pdfplumber==0.10.3
+
+# Web Scraping
+beautifulsoup4==4.12.3
+requests==2.31.0
+lxml==5.1.0
+
+# API and UI
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+streamlit==1.30.0
+python-multipart==0.0.6
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# Data Processing
+numpy==1.26.3
+pandas==2.2.0
+
+# OpenAI
+openai==1.10.0
+
+# Anthropic Claude (optional)
+anthropic==0.18.0
